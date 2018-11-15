@@ -1942,7 +1942,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #bead7d;
+  background: #ff5d38;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3023,4 +3023,7 @@ hr {
     width: auto;
     text-align: center;
   }
+}
+.daodream-powered-by {
+  display: none !important;
 }
